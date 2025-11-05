@@ -2,7 +2,7 @@
 Derivations
 ===========
 
-.. autoclass:: hdwallet.derivations.DERIVATIONS
+.. autoclass:: hdwallet.derivations.DERIVATIONS 
     :members:
 
 >>> from hdwallet.derivations import DERIVATIONS
