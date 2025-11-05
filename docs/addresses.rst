@@ -1,7 +1,7 @@
 :orphan:
 
 =========
-Addresses
+Addresses 
 =========
 
 .. autoclass:: hdwallet.addresses.ADDRESSES
