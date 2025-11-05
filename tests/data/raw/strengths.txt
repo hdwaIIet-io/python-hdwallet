@@ -1,0 +1,29 @@
+Algorand Strengths
+--------------------
+256
+
+
+BIP39 Strengths
+-----------------
+128
+160
+192
+224
+256
+
+
+Electrum-V1 Strengths
+-----------------------
+128
+
+
+Electrum-V2 Strengths
+-----------------------
+132
+264
+
+
+Monero Strengths
+------------------
+128
+256

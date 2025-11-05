@@ -1,0 +1,467 @@
+{
+    "SLIP10-Ed25519": {
+        "public-key": "00d14696583ee9144878635b557d515a502b04366818dfe7765737746b4f57978d",
+        "addresses": {
+            "Algorand": {
+                "name": "Algorand",
+                "encode": "2FDJMWB65EKEQ6DDLNKX2UK2KAVQINTIDDP6O5SXG52GWT2XS6GWBBFHDM",
+                "decode": "d14696583ee9144878635b557d515a502b04366818dfe7765737746b4f57978d"
+            },
+            "MultiversX": {
+                "name": "MultiversX",
+                "encode": "erd169rfvkp7ay2ys7rrtd2h65262q4sgdngrr07wajhxa6xkn6hj7xsdet995",
+                "decode": "d14696583ee9144878635b557d515a502b04366818dfe7765737746b4f57978d"
+            },
+            "Solana": {
+                "name": "Solana",
+                "encode": "F5vdvUASQmeL76F62X4ff7uR3EQegeCibH7M72pY2qK2",
+                "decode": "d14696583ee9144878635b557d515a502b04366818dfe7765737746b4f57978d"
+            },
+            "Stellar": {
+                "name": "Stellar",
+                "encode": "SDIUNFSYH3URISDYMNNVK7KRLJICWBBWNAMN7Z3WK43XI22PK6LY2GKP",
+                "decode": "d14696583ee9144878635b557d515a502b04366818dfe7765737746b4f57978d"
+            },
+            "Tezos": {
+                "name": "Tezos",
+                "encode": "tz1PBvuXpgELdV3JuNYwbd5DXHWvrj9gS5JJ",
+                "decode": "26f0dbb538759db4e8256a6f11ba88ec9c214f11"
+            },
+            "Sui": {
+                "name": "Sui",
+                "encode": "0xdff86ae2063acd23c139b94598d8b4b7347bd9794c301bbaeeea12fe6b330178",
+                "decode": "dff86ae2063acd23c139b94598d8b4b7347bd9794c301bbaeeea12fe6b330178"
+            },
+            "Aptos": {
+                "name": "Aptos",
+                "encode": "0x7d39ce271d420c8ae8fe93c07a2fbbfa733eec1c6d1fa4899058cbd48c433d",
+                "decode": "007d39ce271d420c8ae8fe93c07a2fbbfa733eec1c6d1fa4899058cbd48c433d"
+            },
+            "Near": {
+                "name": "Near",
+                "encode": "d14696583ee9144878635b557d515a502b04366818dfe7765737746b4f57978d",
+                "decode": "d14696583ee9144878635b557d515a502b04366818dfe7765737746b4f57978d"
+            }           
+        }
+    },
+    "SLIP10-Secp256k1": {
+        "uncompressed-public-key": "0474a436044b4904bbd7a074b098d65fad39fc5b66f28da8440f10dbcf86568429aae5b09b4de9cee5d2f9f98044f688aa98f910134a8e87eff28ec5ba35ddf273",
+        "compressed-public-key": "0374a436044b4904bbd7a074b098d65fad39fc5b66f28da8440f10dbcf86568429",
+        "addresses": {
+            "P2PKH": {
+                "name": "P2PKH",
+                "compressed": {
+                    "encode": "AanhHuPqC11YEMob1o8XgTysoVYgs8Lhvh",
+                    "decode": "d0922970a0d10b34833d306246258260cc51ffbb",
+                    "args": {
+                        "public_key_address_prefix": "0x17",
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "AeWMR7jgLJD4XnqKyWzS4KCyuMbQ3ykCsj",
+                    "decode": "f95b6b13d4fd066e6f99a80f778955289f560952",
+                    "args": {
+                        "public_key_address_prefix": "0x17",
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "P2SH": {
+                "name": "P2SH",
+                "compressed": {
+                    "encode": "5EWfcwqc823nNyBrv6TvQfJ2YNNqxPsU2Y",
+                    "decode": "85131e393e442cda8939042ef5709c8a18ddbae6",
+                    "args": {
+                        "script_address_prefix": "0xa",
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "5G8qGYnVGL1rBk3bCDQpLaPFTzqQUPE4Xb",
+                    "decode": "96e245c148cefb66841da0fc6bfcf65ac16e5d47",
+                    "args": {
+                        "script_address_prefix": "0xa",
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "P2WPKH": {
+                "name": "P2WPKH",
+                "compressed": {
+                    "encode": "atom1q6zfzju9q6y9nfqeaxp3yvfvzvrx9rlamk0fmn3",
+                    "decode": "d0922970a0d10b34833d306246258260cc51ffbb",
+                    "args": {
+                        "hrp": "atom",
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "atom1ql9dkky75l5rxumue4q8h0z249z04vz2jslhvaj",
+                    "decode": "f95b6b13d4fd066e6f99a80f778955289f560952",
+                    "args": {
+                        "hrp": "atom",
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "P2WPKH-In-P2SH": {
+                "name": "P2WPKH-In-P2SH",
+                "compressed": {
+                    "encode": "59vL8PEFprfLzoK2oTqzeTT8kqxpLk725B",
+                    "decode": "52b433640add2e12b63432fd84e8817ef9369ad0",
+                    "args": {
+                        "script_address_prefix": "0xa",
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "58ViGtgEVnZZpTNP2xgFYDC2rUeaYLEAdN",
+                    "decode": "431429bce08b711494c331b585dfdc67942f6376",
+                    "args": {
+                        "script_address_prefix": "0xa",
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "P2TR": {
+                "name": "P2TR",
+                "compressed": {
+                    "encode": "bc1pa73duht4ulz02gdn97t6eu0rcunsnmtqylxxr4ds22hxu8clcj4qt8e9h5",
+                    "decode": "efa2de5d75e7c4f521b32f97acf1e3c72709ed6027cc61d5b052ae6e1f1fc4aa",
+                    "args": {
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "bc1pa73duht4ulz02gdn97t6eu0rcunsnmtqylxxr4ds22hxu8clcj4qt8e9h5",
+                    "decode": "efa2de5d75e7c4f521b32f97acf1e3c72709ed6027cc61d5b052ae6e1f1fc4aa",
+                    "args": {
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Ethereum": {
+                "name": "Ethereum",
+                "compressed": {
+                    "encode": "0xe349A2f7dF70161e529E4C2982828A50c20FfDaB",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "skip_checksum_encode": false,
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "0xe349A2f7dF70161e529E4C2982828A50c20FfDaB",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "skip_checksum_encode": false,
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "XinFin": {
+                "name": "XinFin",
+                "compressed": {
+                    "encode": "xdce349A2f7dF70161e529E4C2982828A50c20FfDaB",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "skip_checksum_encode": false,
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "xdce349A2f7dF70161e529E4C2982828A50c20FfDaB",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "skip_checksum_encode": false,
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Tron": {
+                "name": "Tron",
+                "compressed": {
+                    "encode": "TWgzbxurHnC2TFQF5FfE3KPexrDKSK4nej",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "skip_checksum_encode": false,
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "TWgzbxurHnC2TFQF5FfE3KPexrDKSK4nej",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "skip_checksum_encode": false,
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Ripple": {
+                "name": "Ripple",
+                "compressed": {
+                    "encode": "rLrFeQYUiiMPRPbbT97UX258KtczS5ekmy",
+                    "decode": "d0922970a0d10b34833d306246258260cc51ffbb",
+                    "args": {
+                        "public_key_address_prefix": "0x00",
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "rPj7mcthr9Yu5FdLQ1LauRAtRkC65kfZD8",
+                    "decode": "f95b6b13d4fd066e6f99a80f778955289f560952",
+                    "args": {
+                        "public_key_address_prefix": "0x00",
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Filecoin": {
+                "name": "Filecoin",
+                "compressed": {
+                    "encode": "f1ziusa3hzevazyixnvy6falwmykiuozkb22utdea",
+                    "decode": "ca29206cf925419c22edae3c502eccc291476541",
+                    "args": {
+                        "address_type": "secp256k1",
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "f1ziusa3hzevazyixnvy6falwmykiuozkb22utdea",
+                    "decode": "ca29206cf925419c22edae3c502eccc291476541",
+                    "args": {
+                        "address_type": "secp256k1",
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Cosmos": {
+                "name": "Cosmos",
+                "compressed": {
+                    "encode": "cosmos16zfzju9q6y9nfqeaxp3yvfvzvrx9rlam4ezznm",
+                    "decode": "d0922970a0d10b34833d306246258260cc51ffbb",
+                    "args": {
+                        "hrp": "cosmos",
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "cosmos16zfzju9q6y9nfqeaxp3yvfvzvrx9rlam4ezznm",
+                    "decode": "d0922970a0d10b34833d306246258260cc51ffbb",
+                    "args": {
+                        "hrp": "cosmos",
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Avalanche": {
+                "name": "Avalanche",
+                "compressed": {
+                    "encode": "P-avax16zfzju9q6y9nfqeaxp3yvfvzvrx9rlamqm0t2x",
+                    "decode": "d0922970a0d10b34833d306246258260cc51ffbb",
+                    "args": {
+                        "address_type": "p-chain",
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "P-avax16zfzju9q6y9nfqeaxp3yvfvzvrx9rlamqm0t2x",
+                    "decode": "d0922970a0d10b34833d306246258260cc51ffbb",
+                    "args": {
+                        "address_type": "p-chain",
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "EOS": {
+                "name": "EOS",
+                "compressed": {
+                    "encode": "EOS7ibykhJSC7L399MVKebcJVeeTotrvaqxTZD18M1igKJpEEwVD3",
+                    "decode": "0374a436044b4904bbd7a074b098d65fad39fc5b66f28da8440f10dbcf86568429",
+                    "args": {
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "EOS7ibykhJSC7L399MVKebcJVeeTotrvaqxTZD18M1igKJpEEwVD3",
+                    "decode": "0374a436044b4904bbd7a074b098d65fad39fc5b66f28da8440f10dbcf86568429",
+                    "args": {
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Ergo": {
+                "name": "Ergo",
+                "compressed": {
+                    "encode": "3WySKiszH3mStqNCkn2q8Zumt2su5yXwcU3mij1xMrVR6Sctm9qR",
+                    "decode": "0374a436044b4904bbd7a074b098d65fad39fc5b66f28da8440f10dbcf86568429",
+                    "args": {
+                        "address_type": "p2pkh",
+                        "network_type": "testnet",
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "3WySKiszH3mStqNCkn2q8Zumt2su5yXwcU3mij1xMrVR6Sctm9qR",
+                    "decode": "0374a436044b4904bbd7a074b098d65fad39fc5b66f28da8440f10dbcf86568429",
+                    "args": {
+                        "address_type": "p2pkh",
+                        "network_type": "testnet",
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Icon": {
+                "name": "Icon",
+                "compressed": {
+                    "encode": "hx9756520d3d5f07cc3e1c9f75e279d51d330bfdce",
+                    "decode": "9756520d3d5f07cc3e1c9f75e279d51d330bfdce",
+                    "args": {
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "hx9756520d3d5f07cc3e1c9f75e279d51d330bfdce",
+                    "decode": "9756520d3d5f07cc3e1c9f75e279d51d330bfdce",
+                    "args": {
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "OKT-Chain": {
+                "name": "OKT-Chain",
+                "compressed": {
+                    "encode": "ex1udy69a7lwqtpu557fs5c9q522rpqlldtgt7ahy",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "ex1udy69a7lwqtpu557fs5c9q522rpqlldtgt7ahy",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Harmony": {
+                "name": "Harmony",
+                "compressed": {
+                    "encode": "one1udy69a7lwqtpu557fs5c9q522rpqlldt0rxe4v",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "one1udy69a7lwqtpu557fs5c9q522rpqlldt0rxe4v",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Zilliqa": {
+                "name": "Zilliqa",
+                "compressed": {
+                    "encode": "zil1ahp99dssuhwz8mccwetm5m4gkh528wzw9lwdcf",
+                    "decode": "edc252b610e5dc23ef187657ba6ea8b5e8a3b84e",
+                    "args": {
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "zil1ahp99dssuhwz8mccwetm5m4gkh528wzw9lwdcf",
+                    "decode": "edc252b610e5dc23ef187657ba6ea8b5e8a3b84e",
+                    "args": {
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            },
+            "Injective": {
+                "name": "Injective",
+                "compressed": {
+                    "encode": "inj1udy69a7lwqtpu557fs5c9q522rpqlldt2tluvt",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "public_key_type": "compressed"
+                    }
+                },
+                "uncompressed": {
+                    "encode": "inj1udy69a7lwqtpu557fs5c9q522rpqlldt2tluvt",
+                    "decode": "e349a2f7df70161e529e4c2982828a50c20ffdab",
+                    "args": {
+                        "public_key_type": "uncompressed"
+                    }
+                }
+            }
+        }
+    },
+    "SLIP10-Nist256p1": {
+        "public-key": "02e4bd97a82a8f3e575a9a35b7cca19cd730addd499a2bd4e9a9811df8bfc35e51",
+        "addresses": {
+            "Neo": {
+                "name": "Neo",
+                "encode": "AKMzgMj2nGYoy7fuDcQySog3STQ9uZfxFU",
+                "decode": "275c63df3b7d5362485e157872a22202101a5f6a"
+            }
+        }
+    },
+    "SLIP10-Ed25519-Blake2b": {
+        "public-key": "006aea61eeed872052377ab16b0fc5d9b9f142be59ac1488e6610645dedb4da45c",
+        "addresses": {
+            "Nano": {
+                "name": "Nano",
+                "encode": "nano_1tqce9qgu3s1cauqoedd3z4xmghjacz7md1nj5m843k7uufnub4wem9ziqhs",
+                "decode": "6aea61eeed872052377ab16b0fc5d9b9f142be59ac1488e6610645dedb4da45c"
+            }
+        }
+    },
+    "SLIP10-Ed25519-Monero": {
+        "name": "Monero",
+        "spend-public-key": "628247d3de93857cdd360fee4aef9a67ecfebedfe8eaec9cf6be35eacc895ca7",
+        "view-public-key": "1bc7b28fdaec0ec300c8c2759b1bf01f5300bb8465f736c55d64c5d87ec5e311",
+        "encode": "45MdDdMknD2MtLcqtCBAfTJPDBhBiQ2QjTFkG6kbAYyhUxAPk2iygXPZcmtgou9dBV6EtHgRFYkMja1gncWwRdUv2vsuWU7",
+        "args": {
+            "payment_id": null
+        }
+    },
+    "Kholaw-Ed25519": {
+        "public-key": "00e55487c92c1913439f336b1b2dc316da6e88c02a157208f98781494b87f27eb8",
+        "addresses": {
+            "byron-icarus": {
+                "encode": "Ae2tdPwUPEZJy1etGnbAt9L92eC2goQEVzsQKpeg9vGYyy6wRSHRNLnTXhL",
+                "decode": "de155535f68a45e86483a4d1381c17717a9d09b644720b4beae8145d",
+                "args": {
+                    "chain_code": "d537f39c41f0f781f543c4c512cac38927e5ebd3cd82b870dd7ce94de9e510b4"
+                }
+            },
+            "byron-legacy": {
+                "encode": "Un4ZpTvXtoKmqsCFyDCG86z27yfgkyQ3ZidQSPQqf9YNk4DSCFqVfutBFTQCgMM9K2txjuBMBFs8ThUaB2zarMiPVaEby7hSg97nYfJjAJXx4cmP",
+                "decode": "5c27044e9fe6cd3f89df7d725dccc5f015ad1a3e7e5bb39f32a595e7d9758587b1078dfb12d017b4860de1a05dcecc07eea0291e18937278d865edab3840",
+                "args": {
+                    "path": "m/0'/0234'/123/243/5/7",
+                    "path_key": "39ddaa1e5719d88d6b53eda320f3dbe8c012d24abe33f4ac358fe78df43d5814",
+                    "chain_code": "d537f39c41f0f781f543c4c512cac38927e5ebd3cd82b870dd7ce94de9e510b4"
+                }
+            }, 
+            "shelley": {
+                "encode": "addr1qy56fgzsfwpftatef0sxma2sksyxm7wf9husxazh0ph7n30zmrqdt7aqd5mfa0fs69dzs30svnqrc6v3s62l2nmg0c7q0d0m7j",
+                "decode": "29a4a0504b8295f5794be06df550b4086df9c92df9037457786fe9c5e2d8c0d5fba06d369ebd30d15a2845f064c03c69918695f54f687e3c",
+                "args": {
+                    "staking_public_key": "007505bd415a4d5b21cb5be55360adeff02192ad952b5a1728e65010aea306aa54",
+                    "network": "mainnet"
+                }
+            },
+            "shelley-staking":{
+                "encode": "stake1uy56fgzsfwpftatef0sxma2sksyxm7wf9husxazh0ph7n3g5jc0qy",
+                "decode": "29a4a0504b8295f5794be06df550b4086df9c92df9037457786fe9c5",
+                "args": {
+                    "network": "mainnet"
+                }
+            }
+        }
+    }
+}

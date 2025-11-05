@@ -1,0 +1,355 @@
+{
+    "Algorand": [
+        {
+            "name": "Algorand",
+            "entropy": "65234f4ec655b087dd74d186126e301d73d563961890b2f718476e1a32522329",
+            "words": 25,
+            "languages": {
+                "english": "hole develop cheese fragile gaze giggle plunge sphere express reunion oblige crack priority ocean seven mosquito wagon glow castle plunge goddess stand empower ability empower"
+            }
+        }
+    ],
+    "BIP39": [
+        {
+            "name": "BIP39",
+            "entropy": "1ab96e3aebfce1014e3bdddeeb7510c1",
+            "words": 12,
+            "languages": {
+                "chinese-simplified": "基 彼 捕 估 译 碳 院 赶 妙 村 远 麦",
+                "chinese-traditional": "基 彼 捕 估 譯 碳 院 趕 妙 村 遠 麥",
+                "czech": "datel subtropy otrhat tundra synek obvod hranice nozdra uvalit lebka kajuta odeslat",
+                "english": "boy slice modify subject sock level decline knife ten forum during live",
+                "french": "bateau remarque ligue science rester indice coton horizon solitude étanche désobéir inonder",
+                "italian": "bavosa serraglio offrire spazzola sfuggito mitezza degno mecenate sugo gastrico elevare monile",
+                "japanese": "えいせい ひそむ たれんと ぶんぽう ひほう そなえる ぎんいろ せんゆう ほったん ざつがく けつえき そんざい",
+                "korean": "귀국 지점 역할 최악 집단 심리 말씀 식량 크림 비율 미팅 아울러",
+                "portuguese": "auditor rebelde legista salgado regra inapto cinza hidratar sintonia ervilha cultura informal",
+                "russian": "вложить станция пара тихий строгий обмен духи неужели туча крем зерно обыск",
+                "spanish": "bahía roble miga signo rubor linterna corona látex tabaco fobia digno lluvia",
+                "turkish": "bizzat şefkat okçu temas şofben milli engebe mekanik topaç jandarma gelenek motive"
+            }
+        },
+        {
+            "name": "BIP39",
+            "entropy": "26a8ffe0aeec79b68ba47f3ce266127891ad06a3",
+            "words": 15,
+            "languages": {
+                "chinese-simplified": "单 章 湘 括 粘 浇 拉 顿 照 气 刀 挡 资 塞 暴",
+                "chinese-traditional": "單 章 湘 括 粘 澆 拉 頓 照 氣 刀 擋 資 塞 暴",
+                "czech": "ekonomie kavalec zeptat letadlo spustit ukrojit glejt oxid iluze chapadlo odplout vzpoura datum odjet otrok",
+                "english": "chase elevator wealth fruit shy swap company morning diagram basket loyal van bracket local moment",
+                "french": "cadre diviser vénérer évaluer ravager serrure chaton lister cultiver assiette inventer troupeau batterie inspirer limite",
+                "italian": "cardo erede verticale ghisa scultore staffa colmato oltre dire aspirato mucca unisono becco mora oggetto",
+                "japanese": "おんけい けんい りこう さほう はんすう ほいく かんたん たんさん くちこみ うくらいな たいけん ゆうべ えいぶん ぞんぶん たわむれる",
+                "korean": "냄비 반찬 형편 사랑 중부 치약 답장 연애 모범 과학 안과 한복 귀신 아파트 연구",
+                "portuguese": "bocejo deitado veludo espreita rabisco segmento camomila leste comentar apelido inspetor trilogia aumentar inimigo leiloar",
+                "russian": "герб издание шнур крушение сосиска трезвый дальний пауза жулик вдвое озеро цепной вместе овца пароход",
+                "spanish": "caída duque ver fraude reposo soplar cerca miope culebra arruga luna túnica baile lógica milagro",
+                "turkish": "çift gönül yolcu kaldırım sülale teşekkür dipnot olası evrim ayrıntı muzdarip yakamoz bodrum muhafız oksijen"
+            }
+        },
+        {
+            "name": "BIP39",
+            "entropy": "cfcb3c18bb504e2dce6c37d6bb678bacf3f3c7d34d6705a6",
+            "words": 18,
+            "languages": {
+                "chinese-simplified": "牢 苦 种 措 动 提 按 铜 狗 佛 搭 苦 失 杰 船 剩 过 维",
+                "chinese-traditional": "牢 苦 種 措 動 提 按 銅 狗 佛 搭 苦 失 傑 船 剩 過 維",
+                "czech": "tajnost kyvadlo baterka nedaleko balonek chyba hrdost ohrada trpitel ukotvit veskrze kyvadlo jantar videohra kojenec pytel baret hornina",
+                "english": "sound fly alert issue agent black defy manage stove swamp title fly dish token essay provide aisle danger",
+                "french": "rideau espèce adroit grutier adéquat avion coyote jeton sauter sérieux studieux espèce débutant sucre économie opprimer adopter convexe",
+                "italian": "silenzio futile albume macero agitare azoto denotato nanometro sorteggio stacco tarpare futile dogma tecnico faccenda quota alato datato",
+                "japanese": "ひるま さかみち あんがい せつび あらいぐま うなる くうかん たいまつばな ふよう ほあん まんきつ さかみち くれる みかん こうない なっとう ありがとう きやく",
+                "korean": "찬성 브랜드 강조 슬쩍 강도 구름 매력 야단 초콜릿 취향 통로 브랜드 몸속 통화 백화점 일종 강아지 막내",
+                "portuguese": "repudiar entulho adiante gracejo acumular arrumar clero isolado saciar sedutor sucata entulho copo sulfato difuso ofuscado adequar chover",
+                "russian": "суета костюм асфальт название аргумент вечер дюжина орбита терраса тревога улыбка костюм закрыть упаковка кадр резко артерия драка",
+                "spanish": "saber filtro agua joya afición atroz cráter malo sesión sopa teatro filtro dardo teléfono engaño patio agosto conde",
+                "turkish": "tahsilat işgal aktör makul akdeniz bekle entrika müze tehdit testere tuzlu işgal felsefe türev harf rastgele akrobasi elma"
+            }
+        },
+        {
+            "name": "BIP39",
+            "entropy": "87229d35d89b03b26db4660687f5fe13f93df0bce2dd29aec9c7be94",
+            "words": 21,
+            "languages": {
+                "chinese-simplified": "硬 建 右 默 刊 陕 敬 粗 方 配 润 场 败 砍 乔 村 示 呀 末 播 艺",
+                "chinese-traditional": "硬 建 右 默 刊 陝 敬 粗 方 配 潤 場 敗 砍 喬 村 示 呀 末 播 藝",
+                "czech": "ohryzek chodba koktejl revolver rejnok ubohost rybolov oslepit bazalka jasno obrna epos pazneht zezadu zalepit lebka facka nebe nahnat obec jekot",
+                "english": "mango belt estate raise rabbit summer replace mimic alley distance legend child need weapon vicious forum claim iron impose large doll",
+                "french": "jeunesse aubaine écouter pangolin ozone sédatif période légume aérer décider imposer camarade maigre venger unique étanche capuche grotte geyser hurler défensif",
+                "italian": "narice attesa falco regola recinto spigoloso rinforzo obbligo alettone dominare minerale castello ortica vescica vagliato gastrico centesimo lutto libero merlo drago",
+                "japanese": "たいむ うすぎ ごうほう にちじょう にがて へいそ ねあげ たまご あんてい ぐんしょく そつえん がいこう ちさい りせい よかぜ ざつがく かいわ せつだん すぼん そうしん げいじゅつ",
+                "korean": "약간 광장 버섯 작년 자연 축하 저것 여덟 개나리 무관심 실정 노란색 옆집 혜택 해물 비율 농업 스튜디오 수상 신문 무용",
+                "portuguese": "italiano aranha dilatado ostentar origem sangue patinar lareira adjunto corneta imortal bonita lorde vencedor tutorial ervilha broa gostoso gatilho hospedar costela",
+                "russian": "орден веник кажется роспись родной тонна свет очередь атрибут залп обезьяна глаз пилот шоколад чеснок крем голый надо море новость запись",
+                "spanish": "mambo asombro enlace perla pepino situar pobre mente aguja década lima calma mosca verano usuario fobia caña jornada imponer lejano delito",
+                "turkish": "nabız balta hasret rota rezil tepegöz sancak noter alaca fesih mezun çorba oyuk yoldaş yargıç jandarma damla makine leziz merkez fırsat"
+            }
+        },
+        {
+            "name": "BIP39",
+            "entropy": "ff98227315716026e36afb18bb586b24ca719d1e2984a00f9489b966ddfd36b3",
+            "words": 24,
+            "languages": {
+                "chinese-simplified": "韦 瓶 洪 名 最 向 购 游 常 番 资 护 泵 迟 齐 书 贡 赛 海 雷 染 曰 番 假",
+                "chinese-traditional": "韋 瓶 洪 名 最 向 購 遊 常 番 資 護 泵 遲 齊 書 貢 賽 海 雷 染 曰 番 假",
+                "czech": "zvon slezina podstata fenka chrup chata osten lilek clona ukazatel datum klapot praporek syrovost nerv hanba pomoc obal dosyta naklonit motorka zrzavost ukazatel mlsat",
+                "english": "zebra scissors orphan cliff bid beach misery garage board suspect bracket end poem soldier judge correct parade lake carbon index horse write suspect hen",
+                "french": "zèbre prétexte minute casier avancer assurer libérer excuse baleine séquence batterie dorure novateur réticule haricot chose mouvant humain branche glisser frontal vortex séquence fougère",
+                "italian": "zucchero satira pepita chiaro autunno assaggio occidente giusto ballata sradicare becco esercito prassi sgarbato mandorla connesso piega meno buono lineare labbro zenzero sradicare intuito",
+                "japanese": "わじまし はえる ていか がぞう うつくしい うけたまわる たやすい さわやか うりきれ へんさい えいぶん けんとう とくい ひめい せんえい きかんしゃ でっぱ そいね おさえる すれちがう すいとう ろんぱ へんさい しゅらば",
+                "korean": "희망 제한 우정 능동적 교육 관계 여왕 사장 국립 충청도 귀신 발톱 이성 찌꺼기 시멘트 대응 위반 식품 길이 수입 소지품 흐름 충청도 세월",
+                "portuguese": "zelador povoar menos busca argola apesar lavoura europeu atadura sedento aumentar depressa negociar relativo grotesco capotar miolo homem bengala gemer fritura xarope sedento fogo",
+                "russian": "ясный слесарь поплыть горячий весело вдоль пакет купе визг трамвай вместе именно пшеница ступня наутро действие практика ничто выехать мотор милиция язык трамвай между",
+                "spanish": "zona rama nuca carbón atar artista meta funda avena sonido baile educar ostra ruido juzgar chivo octavo lector brillo ingenio hora yeso sonido helio",
+                "turkish": "zorlu siroz paraşüt defter bavul baca obez kapı beyoğlu tesir bodrum gusül polat tabaka masum doruk peçete mercek coğrafya liyakat kurmay zihinsel tesir köstebek"
+            }
+        }
+    ],
+    "Electrum-V1": [
+        {
+            "name": "Electrum-V1",
+            "entropy": "724bf9ce32db1baa801761c4f11fe901",
+            "words": 12,
+            "languages": {
+                "english": "spring hopefully foot effort complete awake stand sheep deserve any soft perfect"
+            }
+        }
+    ],
+    "Electrum-V2": [
+        {
+            "name": "Electrum-V2",
+            "entropy-not-suitable": "0c3a7d6111221a9a9f3f309ee2680aa54a",
+            "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aaa97",
+            "words": 12,
+            "mnemonic-types": {
+                "standard": {
+                    "chinese-simplified": {
+                        "mnemonic": "凭 八 响 帐 乙 牢 碗 头 术 透 德 砖",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aa685"
+                    },
+                    "english": {
+                        "mnemonic": "artefact click cross until gentle sound stay box cattle lounge dirt senior",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aa867"
+                    },
+                    "portuguese": {
+                        "mnemonic": "samurai bufar cegonha torto exclamar repudiar roteiro atum bimestre inseto convite profeta",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aa6c6"
+                    },
+                    "spanish": {
+                        "mnemonic": "poema captar clima treinta ganar saber semana bache bufón lugar cutis recreo",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aa5ba"
+                    }
+                },
+                "segwit": {
+                    "chinese-simplified": {
+                        "mnemonic": "纠 八 响 帐 乙 牢 碗 头 术 透 德 砖",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aa649"
+                    },
+                    "english": {
+                        "mnemonic": "merit cliff cross until gentle sound stay box cattle lounge dirt senior",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680abc5c"
+                    },
+                    "portuguese": {
+                        "mnemonic": "edital bule cegonha torto exclamar repudiar roteiro atum bimestre inseto convite profeta",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aaa97"
+                    },
+                    "spanish": {
+                        "mnemonic": "fiebre carga clima treinta ganar saber semana bache bufón lugar cutis recreo",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680ad2c5"
+                    }
+                },
+                "standard-2fa": {
+                    "chinese-simplified": {
+                        "mnemonic": "园 离 响 帐 乙 牢 碗 头 术 透 德 砖",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aac9b"
+                    },
+                    "english": {
+                        "mnemonic": "noodle climb cross until gentle sound stay box cattle lounge dirt senior",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680ac4b0"
+                    },
+                    "portuguese": {
+                        "mnemonic": "pactuar bule cegonha torto exclamar repudiar roteiro atum bimestre inseto convite profeta",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aad96"
+                    },
+                    "spanish": {
+                        "mnemonic": "utopía capucha clima treinta ganar saber semana bache bufón lugar cutis recreo",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aaf9e"
+                    }
+                },
+                "segwit-2fa": {
+                    "chinese-simplified": {
+                        "mnemonic": "梁 离 响 帐 乙 牢 碗 头 术 透 德 砖",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aac23"
+                    },
+                    "english": {
+                        "mnemonic": "hamster climb cross until gentle sound stay box cattle lounge dirt senior",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680ac345"
+                    },
+                    "portuguese": {
+                        "mnemonic": "numeral bule cegonha torto exclamar repudiar roteiro atum bimestre inseto convite profeta",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aad52"
+                    },
+                    "spanish": {
+                        "mnemonic": "pupila capucha clima treinta ganar saber semana bache bufón lugar cutis recreo",
+                        "entropy-suitable": "0c3a7d6111221a9a9f3f309ee2680aadf7"
+                    }
+                }
+            }
+        },
+        {
+            "name": "Electrum-V2",
+            "entropy-not-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2b946",
+            "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2d155",
+            "words": 24,
+            "mnemonic-types": {
+                "standard": {
+                    "chinese-simplified": {
+                        "mnemonic": "引 索 送 卢 秋 者 称 独 服 简 筑 绘 比 越 数 街 贸 俩 它 景 击 覆 熙 奥",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2b9eb"
+                    },
+                    "english": {
+                        "mnemonic": "loan memory erupt view ill bicycle cushion fatal emerge false logic speed bargain control bacon obvious october wave ask inject enroll tackle silent south",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2bc18"
+                    },
+                    "portuguese": {
+                        "mnemonic": "cumprir laboral dialeto unha garfo argiloso chefe elaborar demanda duvidoso inocente resumir apagador canhoto anexo manusear marcador veleiro alpiste gesso desova seringa raiva resfriar",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2ba22"
+                    },
+                    "spanish": {
+                        "mnemonic": "careta matriz enfado uva igual ataque collar exponer echar examen lombriz salmón arpa cetro archivo nave néctar venta ángulo inútil eludir suerte resumen sacar",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2b959"
+                    }
+                },
+                "segwit": {
+                    "chinese-simplified": {
+                        "mnemonic": "奏 索 送 卢 秋 者 称 独 服 简 筑 绘 比 越 数 街 贸 俩 它 景 击 覆 熙 奥",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2bbd2"
+                    },
+                    "english": {
+                        "mnemonic": "art mention erupt view ill bicycle cushion fatal emerge false logic speed bargain control bacon obvious october wave ask inject enroll tackle silent south",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2c066"
+                    },
+                    "portuguese": {
+                        "mnemonic": "bule ladrilho dialeto unha garfo argiloso chefe elaborar demanda duvidoso inocente resumir apagador canhoto anexo manusear marcador veleiro alpiste gesso desova seringa raiva resfriar",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2d155"
+                    },
+                    "spanish": {
+                        "mnemonic": "coco mecha enfado uva igual ataque collar exponer echar examen lombriz salmón arpa cetro archivo nave néctar venta ángulo inútil eludir suerte resumen sacar",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2d9a6"
+                    }
+                },
+                "standard-2fa": {
+                    "chinese-simplified": {
+                        "mnemonic": "令 脂 送 卢 秋 者 称 独 服 简 筑 绘 比 越 数 街 贸 俩 它 景 击 覆 熙 奥",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2ca9d"
+                    },
+                    "english": {
+                        "mnemonic": "devote menu erupt view ill bicycle cushion fatal emerge false logic speed bargain control bacon obvious october wave ask inject enroll tackle silent south",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2c9e6"
+                    },
+                    "portuguese": {
+                        "mnemonic": "esponja lactante dialeto unha garfo argiloso chefe elaborar demanda duvidoso inocente resumir apagador canhoto anexo manusear marcador veleiro alpiste gesso desova seringa raiva resfriar",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2caed"
+                    },
+                    "spanish": {
+                        "mnemonic": "tira matriz enfado uva igual ataque collar exponer echar examen lombriz salmón arpa cetro archivo nave néctar venta ángulo inútil eludir suerte resumen sacar",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2bf44"
+                    }
+                },
+                "segwit-2fa": {
+                    "chinese-simplified": {
+                        "mnemonic": "饲 索 送 卢 秋 者 称 独 服 简 筑 绘 比 越 数 街 贸 俩 它 景 击 覆 熙 奥",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2bc12"
+                    },
+                    "english": {
+                        "mnemonic": "private memory erupt view ill bicycle cushion fatal emerge false logic speed bargain control bacon obvious october wave ask inject enroll tackle silent south",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2bd59"
+                    },
+                    "portuguese": {
+                        "mnemonic": "nevoeiro ladrilho dialeto unha garfo argiloso chefe elaborar demanda duvidoso inocente resumir apagador canhoto anexo manusear marcador veleiro alpiste gesso desova seringa raiva resfriar",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2d53e"
+                    },
+                    "spanish": {
+                        "mnemonic": "pomada matriz enfado uva igual ataque collar exponer echar examen lombriz salmón arpa cetro archivo nave néctar venta ángulo inútil eludir suerte resumen sacar",
+                        "entropy-suitable": "d0390f742597401abdfcc898a228bd895d11071492455386cc57b87f3e99e2bdc1"
+                    }
+                }
+            }
+        }
+    ],
+    "Monero": [
+        {
+            "name": "Monero",
+            "entropy": "2274b3f925efd9c03a8d66494582ce0f",
+            "words": 12,
+            "checksum": false,
+            "languages": {
+                "chinese-simplified": "宽 事 理 密 道 催 霸 挂 制 妇 出 间",
+                "dutch": "motregen benadeeld atrium geslaagd bizar traktaat zulk sneu badderen robot afspeel best",
+                "english": "mundane aunt answers gang beer thirsty zebra shuffled apricot rest affair awakened",
+                "french": "moudre avide arcade feuille baver site vrac repli article promener adresser azote",
+                "german": "jäger ansporn amphibie erosion auftritt salat zollhund pedal anbieten muster abteil aorta",
+                "italian": "medaglia arte andare egiziano aviatore specchio zattera rumore annuncio pupazzo affogato aspirina",
+                "japanese": "ずっしり いもたれ いせき けおりもの うけつけ なげる ひかん ていおん いちど だんねつ あぶる いらい",
+                "portuguese": "loquaz atazanar anfora faturista baqueta solver zabumba recusavel apito pecuniario adriatico aturdir",
+                "russian": "октябрь билет ателье иметь бугор уран январь сфера аэропорт сердце аксиома бицепс",
+                "spanish": "hurto apio alteza derrota asa pasión rifa nube ámbar moda acuerdo aprobar"
+            }
+        },
+        {
+            "name": "Monero",
+            "entropy": "cb88cbdc872bb038f0984e611b539f03",
+            "words": 13,
+            "checksum": true,
+            "languages": {
+                "chinese-simplified": "纸 呀 刑 斜 足 措 监 联 末 喊 穷 咱 监",
+                "dutch": "leguaan nullijn knaven pablo hekman nylon rein diode napijn tuma tout tulp nylon",
+                "english": "leopard noted jingle pancakes hairy nowhere ravine dauntless nasty today testing tobacco tobacco",
+                "french": "litre norme jardin parler fuser notre poupe cirage muse sombre singe solvant litre",
+                "german": "habicht kaugummi gehweg lausbub fazit keilerei monat brandung jupiter schmied sachbuch schlager schlager",
+                "italian": "insalata muraglia giusto panfilo farmacia musica primario carbone mettere spuntare spagnolo spumante spumante",
+                "japanese": "じかん せつだん さぎょう そむりえ けんにん せつび たれる おどり すぼん なやむ ないせん なめる なやむ",
+                "portuguese": "itrio miau icar noturno fumo migratorio ozonizar coordenativa luxuriante sujo sodomizar suite ozonizar",
+                "russian": "мятый оценка мачта пузырь клятва очищать сбегать гильза орган уцелеть упасть уходить клятва",
+                "spanish": "gen jornada finca llama eficaz joya miembro burbuja imponer pelar parque peine imponer"
+            }
+        },
+        {
+            "name": "Monero",
+            "entropy": "4093237e6a9bbc785b4072feef5d81edd0b5b5a077b8ccd66f080485ea2a1ba6",
+            "words": 24,
+            "checksum": false,
+            "languages": {
+                "chinese-simplified": "李 舞 感 炼 熔 黑 能 铜 毒 炮 枝 柬 留 节 违 朗 株 纳 卡 坦 周 意 南 阀",
+                "dutch": "giebelen smoel fabel saksisch vieux hiaat alikruik pixel pieneman riskant tragedie soapbox ionisch eind tosti sediment sulfaat pakzadel peuk rugpijn eurocent boei dagprijs tabak",
+                "english": "gemstone sewage equip runway unknown haystack ahead playful pigment reorder textbook sidekick identity drunk template satin sovereign pastry physics roomy emotion betting cohesive spying",
+                "french": "fils rendre doute raie tanin galop aigre pieu perte produire sinus respect haie crin sigle ratio rubis partir perdu quitter docteur bidule certes rustre",
+                "german": "erwidern partner druck obdach taktung feldbett afrika lümmel lohn mumie saft person foliant cousin rüstung omelett quote leder locken neugier donner aussage biologe rapsöl",
+                "italian": "emettere rotonda crimine rete tenebre femmina aiutare petrolio pentirsi pugilato sparire sacco forzare cigno sospiro rilevare scuola panorama pendenza recitare corrente babbuino cacciare seme",
+                "japanese": "けさき つるみく きない ちめいど ぬまえび こいぬ あらゆる たいまつばな だいたい たんてい なおす ていこく こつぶ がっしょう どんぶり つうじょう てんき そよかぜ だいじょうぶ ちたい きすう うすい おおよそ てんぷら",
+                "portuguese": "felicidade rasurar ejetar poquer toar gado agito oigale ocre pavoroso software regurgitar guaxinim diatribe slide pueril ruas nublar oceanografo pizzaria ecumenismo begonia chuvoso rural",
+                "russian": "инфекция суровый емкость совет хозяин кодекс амбар ремонт рвать секунда упор счет ледяной держать умолять спать ткань пурга рапорт случай дыра бухта выгодный трибуна",
+                "spanish": "diablo norte cocina muro pleno élite agitar malo macho mitad parte nudo etnia carro parcela náusea olor llegar lustro mozo circo asno bondad óptica"
+            }
+        },
+        {
+            "name": "Monero",
+            "entropy": "590cb57a7946c3cd1e77c219b209538ffd2e54b3e845c38a2458cd51819b1861",
+            "words": 25,
+            "checksum": true,
+            "languages": {
+                "chinese-simplified": "往 祥 钢 众 砂 筒 完 阵 挂 勤 爱 氮 黄 斯 辉 起 永 接 腿 喝 教 碳 烯 做 起",
+                "dutch": "faliekant wals isaac erna whirlpool scout eenruiter ponywagen sneu twitteren guido vrekkig gekskap folder zijbeuk atsma omdoen clicheren spiraal valreep drol oudachtig soigneren cruijff sneu",
+                "english": "error value idiom efficient vocal sanity donuts poker shuffled together greater upstairs fuming farming womanly antics obnoxious cafe slackens tsunami dewdrop oyster sifting civilian womanly",
+                "french": "drame toque haine devoir tutu raser coupure pirate repli sondage foyer texte faune enfermer visite arceau obtenir cabinet rigide stagiaire cocon panda reste cavale cabinet",
+                "german": "dünung traum folklore dezibel verb oktave chipsatz maibaum pedal schrank familie ticken erfüllen einfall wrack ampulle klee beladen polieren sitzbank bugwelle langmut pfa bezahlen familie",
+                "italian": "cronaca tromba fosforo comune vaglio riferire chirurgo pigiama rumore staccare evacuare topolino ebbrezza deposito virgola androide nipote bombola sberla stufa cauzione padella sale buffo cauzione",
+                "japanese": "きねん ねんぶつ こてい きかく はいご ちんもく かがし たえる ていおん ならぶ けろけろ ねほりはほり ぐんて きわめる はんかく いぜん せんげん えすて てすり にっけい おんどけい そなえる ていし おうじ おんどけい",
+                "portuguese": "elmo umero gude druso valvula pterossauros deltoide olvidavel recusavel suntuoso fominha tufo facultativo enzimatico vozes aniversario morubixaba bucolico ridiculo tatuar cupula noel rejuvenescimento ceifeiro druso",
+                "russian": "жажда членство лежать древний шикарный соус двор рифма сфера учитель кибитка цирк излагать замечать эскиз атлас пачка вишневый таможня финал гость пруд сшивать всадник атлас",
+                "spanish": "cofre producto evadir chiste quince nasal capitán manso nube peligro dulce posible dedo cordón rencor altivo lacio barba ocaso pesa calamar linterna nueve bobina nueve"
+            }
+        }
+    ]
+}

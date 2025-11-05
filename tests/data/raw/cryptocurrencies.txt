@@ -1,0 +1,213 @@
+Cryptocurrency         Symbol    Coin Type            Networks                    ECC
+--------------------  --------  -----------  --------------------------  ----------------------
+Adcoin                  ACC         161               mainnet               SLIP10-Secp256k1
+Akash-Network           AKT         118               mainnet               SLIP10-Secp256k1
+Algorand                ALGO        283               mainnet                Kholaw-Ed25519
+Anon                    ANON        220               mainnet               SLIP10-Secp256k1
+Aptos                   APT         637               mainnet                SLIP10-Ed25519
+Arbitrum                ARB         60                mainnet               SLIP10-Secp256k1
+Argoneum                AGM         421               mainnet               SLIP10-Secp256k1
+Artax                   XAX         219               mainnet               SLIP10-Secp256k1
+Aryacoin                AYA         357               mainnet               SLIP10-Secp256k1
+Asiacoin                 AC         51                mainnet               SLIP10-Secp256k1
+Auroracoin              AUR         85                mainnet               SLIP10-Secp256k1
+Avalanche               AVAX       9000               mainnet               SLIP10-Secp256k1
+Avian                   AVN         921               mainnet               SLIP10-Secp256k1
+Axe                     AXE        4242               mainnet               SLIP10-Secp256k1
+Axelar                  AXL         118               mainnet               SLIP10-Secp256k1
+Band-Protocol           BAND        494               mainnet               SLIP10-Secp256k1
+Base                    BASE        60                mainnet               SLIP10-Secp256k1
+Bata                    BTA         89                mainnet               SLIP10-Secp256k1
+Beetle-Coin             BEET        800               mainnet               SLIP10-Secp256k1
+Bela-Coin               BELA        73                mainnet               SLIP10-Secp256k1
+Binance                 BNB         714               mainnet               SLIP10-Secp256k1
+Bit-Cloud               BTDX        218               mainnet               SLIP10-Secp256k1
+Bitcoin                 BTC          0       mainnet, testnet, regtest      SLIP10-Secp256k1
+Bitcoin-Atom            BCA         185               mainnet               SLIP10-Secp256k1
+Bitcoin-Cash            BCH         145      mainnet, testnet, regtest      SLIP10-Secp256k1
+Bitcoin-Cash-SLP        SLP         145           mainnet, testnet          SLIP10-Secp256k1
+Bitcoin-Gold            BTG         156               mainnet               SLIP10-Secp256k1
+Bitcoin-Green           BITG        222               mainnet               SLIP10-Secp256k1
+Bitcoin-Plus            XBC         65                mainnet               SLIP10-Secp256k1
+Bitcoin-Private         BTCP        183           mainnet, testnet          SLIP10-Secp256k1
+Bitcoin-SV              BSV         236               mainnet               SLIP10-Secp256k1
+BitcoinZ                BTCZ        177               mainnet               SLIP10-Secp256k1
+Bitcore                 BTX         160               mainnet               SLIP10-Secp256k1
+Bit-Send                BSD         91                mainnet               SLIP10-Secp256k1
+Blackcoin               BLK         10                mainnet               SLIP10-Secp256k1
+Blocknode               BND        2941           mainnet, testnet          SLIP10-Secp256k1
+Block-Stamp             BST         254               mainnet               SLIP10-Secp256k1
+Bolivarcoin             BOLI        278               mainnet               SLIP10-Secp256k1
+Brit-Coin               BRIT        70                mainnet               SLIP10-Secp256k1
+Canada-eCoin            CDN         34                mainnet               SLIP10-Secp256k1
+Cannacoin               CCN         19                mainnet               SLIP10-Secp256k1
+Cardano                 ADA        1815           mainnet, testnet           Kholaw-Ed25519
+Celo                    CELO       52752              mainnet               SLIP10-Secp256k1
+Chihuahua               HUA         118               mainnet               SLIP10-Secp256k1
+Clams                   CLAM        23                mainnet               SLIP10-Secp256k1
+Club-Coin               CLUB        79                mainnet               SLIP10-Secp256k1
+Compcoin                CMP         71                mainnet               SLIP10-Secp256k1
+Cosmos                  ATOM        118               mainnet               SLIP10-Secp256k1
+CPU-Chain               CPU         363               mainnet               SLIP10-Secp256k1
+Crane-Pay               CRP        2304               mainnet               SLIP10-Secp256k1
+Crave                  CRAVE        186               mainnet               SLIP10-Secp256k1
+Dash                    DASH         5            mainnet, testnet          SLIP10-Secp256k1
+DeepOnion              ONION        305               mainnet               SLIP10-Secp256k1
+Defcoin                 DFC        1337               mainnet               SLIP10-Secp256k1
+Denarius                DNR         116               mainnet               SLIP10-Secp256k1
+Diamond                 DMD         152               mainnet               SLIP10-Secp256k1
+Digi-Byte               DGB         20                mainnet               SLIP10-Secp256k1
+Digitalcoin             DGC         18                mainnet               SLIP10-Secp256k1
+Divi                    DIVI        301           mainnet, testnet          SLIP10-Secp256k1
+Dogecoin                DOGE         3            mainnet, testnet          SLIP10-Secp256k1
+dYdX                    DYDX     22000118             mainnet               SLIP10-Secp256k1
+eCash                   XEC         145           mainnet, testnet          SLIP10-Secp256k1
+E-Coin                  ECN         115               mainnet               SLIP10-Secp256k1
+EDR-Coin                EDRC        56                mainnet               SLIP10-Secp256k1
+e-Gulden                EFL         78                mainnet               SLIP10-Secp256k1
+Einsteinium             EMC2        41                mainnet               SLIP10-Secp256k1
+Elastos                 ELA        2305               mainnet               SLIP10-Secp256k1
+Energi                  NRG        9797               mainnet               SLIP10-Secp256k1
+EOS                     EOS         194               mainnet               SLIP10-Secp256k1
+Ergo                    ERG         429           mainnet, testnet          SLIP10-Secp256k1
+Ethereum                ETH         60                mainnet               SLIP10-Secp256k1
+Europe-Coin             ERC         151               mainnet               SLIP10-Secp256k1
+Evrmore                 EVR         175           mainnet, testnet          SLIP10-Secp256k1
+Exclusive-Coin          EXCL        190               mainnet               SLIP10-Secp256k1
+Fantom                  FTM         60                mainnet               SLIP10-Secp256k1
+Feathercoin             FTC          8                mainnet               SLIP10-Secp256k1
+Fetch.ai                FET         118               mainnet               SLIP10-Secp256k1
+Filecoin                FIL         461               mainnet               SLIP10-Secp256k1
+Firo                    FIRO        136               mainnet               SLIP10-Secp256k1
+Firstcoin               FRST        167               mainnet               SLIP10-Secp256k1
+FIX                     FIX         336           mainnet, testnet          SLIP10-Secp256k1
+Flashcoin              FLASH        120               mainnet               SLIP10-Secp256k1
+Flux                    FLUX       19167              mainnet               SLIP10-Secp256k1
+Foxdcoin                FOXD        175           mainnet, testnet          SLIP10-Secp256k1
+Fuji-Coin               FJC         75                mainnet               SLIP10-Secp256k1
+Game-Credits            GAME        101               mainnet               SLIP10-Secp256k1
+GCR-Coin                GCR         49                mainnet               SLIP10-Secp256k1
+Go-Byte                 GBX         176               mainnet               SLIP10-Secp256k1
+Gridcoin                GRC         84                mainnet               SLIP10-Secp256k1
+Groestl-Coin            GRS         17            mainnet, testnet          SLIP10-Secp256k1
+Gulden                  NLG         87                mainnet               SLIP10-Secp256k1
+Harmony                 ONE        1023               mainnet               SLIP10-Secp256k1
+Helleniccoin            HNC         168               mainnet               SLIP10-Secp256k1
+Hempcoin                THC         113               mainnet               SLIP10-Secp256k1
+Horizen                 ZEN         121               mainnet               SLIP10-Secp256k1
+Huobi-Token              HT         553               mainnet               SLIP10-Secp256k1
+Hush                    HUSH        197               mainnet               SLIP10-Secp256k1
+Icon                    ICX         74                mainnet               SLIP10-Secp256k1
+Injective               INJ         60                mainnet               SLIP10-Secp256k1
+InsaneCoin              INSN        68                mainnet               SLIP10-Secp256k1
+Internet-Of-People      IOP         66                mainnet               SLIP10-Secp256k1
+IRISnet                 IRIS        566               mainnet               SLIP10-Secp256k1
+IX-Coin                 IXC         86                mainnet               SLIP10-Secp256k1
+Jumbucks                JBS         26                mainnet               SLIP10-Secp256k1
+Kava                    KAVA        459               mainnet               SLIP10-Secp256k1
+Kobocoin                KOBO        196               mainnet               SLIP10-Secp256k1
+Komodo                  KMD         141               mainnet               SLIP10-Secp256k1
+Landcoin                LDCN        63                mainnet               SLIP10-Secp256k1
+LBRY-Credits            LBC         140               mainnet               SLIP10-Secp256k1
+Linx                    LINX        114               mainnet               SLIP10-Secp256k1
+Litecoin                LTC          2            mainnet, testnet          SLIP10-Secp256k1
+Litecoin-Cash           LCC         192               mainnet               SLIP10-Secp256k1
+LitecoinZ               LTZ         221               mainnet               SLIP10-Secp256k1
+Lkrcoin                 LKR         557               mainnet               SLIP10-Secp256k1
+Lynx                    LYNX        191               mainnet               SLIP10-Secp256k1
+Mazacoin                MZC         13                mainnet               SLIP10-Secp256k1
+Megacoin                MEC         217               mainnet               SLIP10-Secp256k1
+Metis                  METIS        60                mainnet               SLIP10-Secp256k1
+Minexcoin               MNX         182               mainnet               SLIP10-Secp256k1
+Monacoin                MONA        22                mainnet               SLIP10-Secp256k1
+Monero                  XMR         128      mainnet, stagenet, testnet  SLIP10-Ed25519-Monero
+Monk                    MONK        214               mainnet               SLIP10-Secp256k1
+MultiversX              EGLD        508               mainnet                SLIP10-Ed25519
+Myriadcoin              XMY         90                mainnet               SLIP10-Secp256k1
+Namecoin                NMC          7                mainnet               SLIP10-Secp256k1
+Nano                    XNO         165               mainnet            SLIP10-Ed25519-Blake2b
+Navcoin                 NAV         130               mainnet               SLIP10-Secp256k1
+Near                    NEAR        397               mainnet                SLIP10-Ed25519
+Neblio                  NEBL        146               mainnet               SLIP10-Secp256k1
+Neo                     NEO         888               mainnet               SLIP10-Nist256p1
+Neoscoin                NEOS        25                mainnet               SLIP10-Secp256k1
+Neurocoin               NRO         110               mainnet               SLIP10-Secp256k1
+Neutron                 NTRN        118               mainnet               SLIP10-Secp256k1
+New-York-Coin           NYC         179               mainnet               SLIP10-Secp256k1
+Nine-Chronicles         NCG         567               mainnet               SLIP10-Secp256k1
+NIX                     NIX         400               mainnet               SLIP10-Secp256k1
+Novacoin                NVC         50                mainnet               SLIP10-Secp256k1
+NuBits                  NBT         12                mainnet               SLIP10-Secp256k1
+NuShares                NSR         11                mainnet               SLIP10-Secp256k1
+OK-Cash                  OK         69                mainnet               SLIP10-Secp256k1
+OKT-Chain               OKT         996               mainnet               SLIP10-Secp256k1
+Omni                    OMNI        200           mainnet, testnet          SLIP10-Secp256k1
+Onix                    ONX         174               mainnet               SLIP10-Secp256k1
+Ontology                ONT        1024               mainnet               SLIP10-Nist256p1
+Optimism                 OP         60                mainnet               SLIP10-Secp256k1
+Osmosis                 OSMO     10000118             mainnet               SLIP10-Secp256k1
+Particl                 PART        44                mainnet               SLIP10-Secp256k1
+Peercoin                PPC          6                mainnet               SLIP10-Secp256k1
+Pesobit                 PSB         62                mainnet               SLIP10-Secp256k1
+Phore                   PHR         444               mainnet               SLIP10-Secp256k1
+Pi-Network               PI       314159              mainnet                SLIP10-Ed25519
+Pinkcoin                PINK        117               mainnet               SLIP10-Secp256k1
+Pivx                    PIVX        119           mainnet, testnet          SLIP10-Secp256k1
+Polygon                MATIC        60                mainnet               SLIP10-Secp256k1
+PoSW-Coin               POSW        47                mainnet               SLIP10-Secp256k1
+Potcoin                 POT         81                mainnet               SLIP10-Secp256k1
+Project-Coin            PRJ         533               mainnet               SLIP10-Secp256k1
+Putincoin               PUT         122               mainnet               SLIP10-Secp256k1
+Qtum                    QTUM       2301           mainnet, testnet          SLIP10-Secp256k1
+Rapids                  RPD         320               mainnet               SLIP10-Secp256k1
+Ravencoin               RVN         175           mainnet, testnet          SLIP10-Secp256k1
+Reddcoin                RDD          4                mainnet               SLIP10-Secp256k1
+Ripple                  XRP         144               mainnet               SLIP10-Secp256k1
+Ritocoin                RITO       19169              mainnet               SLIP10-Secp256k1
+RSK                     RBTC        137           mainnet, testnet          SLIP10-Secp256k1
+Rubycoin                RBY         16                mainnet               SLIP10-Secp256k1
+Safecoin                SAFE       19165              mainnet               SLIP10-Secp256k1
+Saluscoin               SLS         572               mainnet               SLIP10-Secp256k1
+Scribe                 SCRIBE       545               mainnet               SLIP10-Secp256k1
+Secret                  SCRT        529               mainnet               SLIP10-Secp256k1
+Shadow-Cash             SDC         35            mainnet, testnet          SLIP10-Secp256k1
+Shentu                  CTK         118               mainnet               SLIP10-Secp256k1
+Slimcoin                SLM         63            mainnet, testnet          SLIP10-Secp256k1
+Smileycoin              SMLY        59                mainnet               SLIP10-Secp256k1
+Solana                  SOL         501               mainnet                SLIP10-Ed25519
+Solarcoin               SLR         58                mainnet               SLIP10-Secp256k1
+Stafi                   FIS         907               mainnet               SLIP10-Secp256k1
+Stash                  STASH       49344          mainnet, testnet          SLIP10-Secp256k1
+Stellar                 XLM         148               mainnet                SLIP10-Ed25519
+Stratis                STRAT        105           mainnet, testnet          SLIP10-Secp256k1
+Sugarchain             SUGAR        408           mainnet, testnet          SLIP10-Secp256k1
+Sui                     SUI         784               mainnet                SLIP10-Ed25519
+Syscoin                 SYS         57                mainnet               SLIP10-Secp256k1
+Terra                   LUNA        330               mainnet               SLIP10-Secp256k1
+Tezos                   XTZ        1729               mainnet                SLIP10-Ed25519
+Theta                  THETA        500               mainnet               SLIP10-Secp256k1
+Thought-AI              THT         502               mainnet               SLIP10-Secp256k1
+TOA-Coin                TOA         159               mainnet               SLIP10-Secp256k1
+Tron                    TRX         195               mainnet               SLIP10-Secp256k1
+TWINS                  TWINS        970           mainnet, testnet          SLIP10-Secp256k1
+Ultimate-Secure-Cash    USC         112               mainnet               SLIP10-Secp256k1
+Unobtanium              UNO         92                mainnet               SLIP10-Secp256k1
+Vcash                    VC         127               mainnet               SLIP10-Secp256k1
+VeChain                 VET         818               mainnet               SLIP10-Secp256k1
+Verge                   XVG         77                mainnet               SLIP10-Secp256k1
+Vertcoin                VTC         28                mainnet               SLIP10-Secp256k1
+Viacoin                 VIA         14            mainnet, testnet          SLIP10-Secp256k1
+Vivo                    VIVO        166               mainnet               SLIP10-Secp256k1
+Voxels                  VOX         129               mainnet               SLIP10-Secp256k1
+Virtual-Cash            VASH        33                mainnet               SLIP10-Secp256k1
+Wagerr                  WGR          0                mainnet               SLIP10-Secp256k1
+Whitecoin               XWC         559               mainnet               SLIP10-Secp256k1
+Wincoin                  WC         181               mainnet               SLIP10-Secp256k1
+XinFin                  XDC         550               mainnet               SLIP10-Secp256k1
+XUEZ                    XUEZ        225               mainnet               SLIP10-Secp256k1
+Ycash                   YEC         347               mainnet               SLIP10-Secp256k1
+Zcash                   ZEC         133           mainnet, testnet          SLIP10-Secp256k1
+ZClassic                ZCL         147               mainnet               SLIP10-Secp256k1
+Zetacoin                ZET         719               mainnet               SLIP10-Secp256k1
+Zilliqa                 ZIL         313               mainnet               SLIP10-Secp256k1
+ZooBC                   ZBC         883               mainnet               SLIP10-Secp256k1

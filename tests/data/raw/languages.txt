@@ -1,0 +1,48 @@
+Algorand Languages
+--------------------
+English
+
+
+BIP39 Languages
+-------------------
+Chinese-Simplified
+Chinese-Traditional
+Czech
+English
+French
+Italian
+Japanese
+Korean
+Portuguese
+Russian
+Spanish
+Turkish
+
+
+Electrum-V1 Languages
+-----------------------
+English
+
+
+Electrum-V2 Languages
+-----------------------
+Chinese-Simplified
+English
+Portuguese
+Spanish
+
+
+Monero Languages
+------------------
+Chinese-Simplified
+Dutch
+English
+French
+German
+Italian
+Japanese
+Portuguese
+Russian
+Spanish
+
+

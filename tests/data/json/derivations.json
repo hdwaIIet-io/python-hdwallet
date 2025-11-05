@@ -1,0 +1,146 @@
+{
+    "BIP44": {
+        "default": {
+            "name": "BIP44",
+            "purpose": 44,
+            "coin_type": 0,
+            "account": 0,
+            "change": "external-chain",
+            "address": 0,
+            "path": "m/44'/0'/0'/0/0"
+        },
+        "from": {
+            "coin_type": 1,
+            "account": 1,
+            "change": "internal-chain",
+            "address": 1,
+            "path": "m/44'/1'/1'/1/1"
+        }
+    },
+    "BIP49": {
+        "default": {
+            "name": "BIP49",
+            "purpose": 49,
+            "coin_type": 0,
+            "account": 0,
+            "change": "external-chain",
+            "address": 0,
+            "path": "m/49'/0'/0'/0/0"
+        },
+        "from": {
+            "coin_type": 1,
+            "account": 1,
+            "change": "internal-chain",
+            "address": 1,
+            "path": "m/49'/1'/1'/1/1"
+        }
+    },
+    "BIP84": {
+        "default": {
+            "name": "BIP84",
+            "purpose": 84,
+            "coin_type": 0,
+            "account": 0,
+            "change": "external-chain",
+            "address": 0,
+            "path": "m/84'/0'/0'/0/0"
+        },
+        "from": {
+            "coin_type": 1,
+            "account": 1,
+            "change": "internal-chain",
+            "address": 1,
+            "path": "m/84'/1'/1'/1/1"
+        }
+    },
+    "BIP86": {
+        "default": {
+            "name": "BIP86",
+            "purpose": 86,
+            "coin_type": 0,
+            "account": 0,
+            "change": "external-chain",
+            "address": 0,
+            "path": "m/86'/0'/0'/0/0"
+        },
+        "from": {
+            "coin_type": 1,
+            "account": 1,
+            "change": "internal-chain",
+            "address": 1,
+            "path": "m/86'/1'/1'/1/1"
+        }
+    },
+    "CIP1852": {
+        "default": {
+            "name": "CIP1852",
+            "purpose": 1852,
+            "coin_type": 1815,
+            "account": 0,
+            "role": "external-chain",
+            "address": 0,
+            "path": "m/1852'/1815'/0'/0/0"
+        },
+        "from": {
+            "coin_type": 1,
+            "account": 1,
+            "role": "internal-chain",
+            "address": 1,
+            "path": "m/1852'/1'/1'/1/1"
+        }
+    },
+    "Custom": {
+        "name": "Custom",
+        "default-path": "m/",
+        "from-path": {
+            "indexes": [1337, 3, 5, 0, 90],
+            "path": "m/1337/3/5/0/90"
+        },
+        "from-index": {
+            "index": 1337,
+            "hardened": true,
+            "path": "m/1337'"
+        }
+    },
+    "Electrum": {
+        "default": {
+            "name": "Electrum",
+            "change": 0,
+            "address": 0,
+            "path": "m/0/0"
+        },
+        "from": {
+            "change": 1,
+            "address": 1,
+            "path": "m/1/1"
+        }
+    },
+    "Monero": {
+        "default": {
+            "name": "Monero",
+            "minor": 1,
+            "major": 0,
+            "path": "m/1/0"
+        },
+        "from": {
+            "minor": 0,
+            "major": 1,
+            "path": "m/0/1"
+        }
+    },
+    "HDW": {
+        "default": {
+            "name": "HDW",
+            "account": 0,
+            "ecc": "SLIP10-Secp256k1",
+            "address": 0,
+            "path": "m/0'/0/0"
+        },
+        "from": {
+            "account": 1,
+            "ecc": "SLIP10-Ed25519-Monero",
+            "address": 5,
+            "path": "m/1'/5/5"
+        }
+    }
+}
