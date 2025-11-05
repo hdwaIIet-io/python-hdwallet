@@ -3,7 +3,7 @@ Installing HDWallet
 ===================
 
 The easiest way to install ``hdwallet`` is via pip:
-
+ 
 ::
 
     pip install hdwallet
