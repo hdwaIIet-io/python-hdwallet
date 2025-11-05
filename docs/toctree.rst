@@ -1,5 +1,5 @@
 ========
-HDWallet
+HDWallet 
 ========
 
 .. toctree::
