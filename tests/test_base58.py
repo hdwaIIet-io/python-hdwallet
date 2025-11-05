@@ -3,7 +3,7 @@
 from Crypto.Hash import keccak
 from binascii import (
     hexlify, unhexlify
-)
+) 
 
 import pytest
 import hashlib
