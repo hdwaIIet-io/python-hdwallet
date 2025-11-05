@@ -6,7 +6,7 @@ from hdwallet.seeds import BIP39Seed
 from hdwallet.cryptocurrencies import Ethereum as Cryptocurrency
 from hdwallet.hds import BIP44HD
 from hdwallet.derivations import (
-    BIP44Derivation, CHANGES
+    BIP44Derivation, CHANGES 
 )
 
 import json
