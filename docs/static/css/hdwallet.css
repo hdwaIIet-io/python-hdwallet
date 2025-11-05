@@ -1,0 +1,31 @@
+.rst-content dl:not(.docutils) code.descname {
+    color: #2980B9;
+}
+
+table.docutils {
+    margin-left: 5px;
+    margin-right: auto;
+}
+
+.mixed-align-table td, .mixed-align-table th {
+    text-align: center;
+    width: 20px;
+}
+
+.mixed-align-table td:first-child, .mixed-align-table th:first-child {
+    text-align: left;
+}
+
+.mixed-align-table td:last-child, .mixed-align-table th:last-child {
+    text-align: center; /*right*/
+}
+
+.sidebar-logo-container img {
+    width: 100px;
+    height: auto;
+}
+
+.sidebar-brand-text {
+    text-align: center;
+    font-size: 19px;
+}
