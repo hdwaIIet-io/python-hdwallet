@@ -5,7 +5,7 @@ def update_docstring(app, what, name, obj, options, lines):
     if what == 'class':
         idx = 1
     else:
-        idx = 2
+        idx = 2 
 
     path = name.split(".")
 
