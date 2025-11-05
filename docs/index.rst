@@ -1,7 +1,7 @@
 =================================
 Hierarchical Deterministic Wallet
 =================================
- 
+  
 |Build Status| |PyPI Version| |Documentation Status| |PyPI License| |PyPI Python Version| |Coverage Status|
 
 .. |Build Status| image:: https://img.shields.io/github/actions/workflow/status/hdwallet-io/python-hdwallet/build.yml
