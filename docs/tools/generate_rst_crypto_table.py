@@ -5,7 +5,7 @@
 # file COPYING or https://opensource.org/license/mit
 
 from hdwallet.cryptocurrencies import CRYPTOCURRENCIES
-
+ 
 def _joined(arr):
     return " ".join(f"``{i}``" for i in arr)
 
