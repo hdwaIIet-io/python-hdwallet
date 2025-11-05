@@ -3,7 +3,7 @@
 from hdwallet.entropies.bip39 import (
     BIP39Entropy, BIP39_ENTROPY_STRENGTHS
 )
-from hdwallet.mnemonics.bip39 import (
+from hdwallet.mnemonics.bip39 import ( 
     BIP39Mnemonic, BIP39_MNEMONIC_LANGUAGES
 )
 from hdwallet.seeds.bip39 import BIP39Seed
