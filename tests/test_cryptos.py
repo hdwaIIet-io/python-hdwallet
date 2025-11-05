@@ -8,7 +8,7 @@
 import pytest
 from hdwallet.crypto import (
     hmac_sha256, hmac_sha512, blake2b, blake2b_32, blake2b_40, blake2b_160, blake2b_224, blake2b_256, blake2b_512,
-    chacha20_poly1305_encrypt, chacha20_poly1305_decrypt, sha256, double_sha256, hash160, crc32, xmodem_crc, 
+    chacha20_poly1305_encrypt, chacha20_poly1305_decrypt, sha256, double_sha256, hash160, crc32, xmodem_crc,  
     pbkdf2_hmac_sha512, kekkak256, ripemd160, sha512, sha512_256, sha3_256
 )
 
