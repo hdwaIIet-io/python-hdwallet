@@ -4,5 +4,5 @@
 Utils
 =====
 
-.. automodule:: hdwallet.utils
+.. automodule:: hdwallet.utils 
    :members:
