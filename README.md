@@ -27,16 +27,10 @@ Python-based library implementing a Hierarchical Deterministic (HD) Wallet gener
 
 ## Installation
 
-The easiest way to install `hdwallet` is via pip:
+The easiest way to install `hdwallet` is via git:
 
 ```
-pip install hdwallet
-```
-
-To install `hdwallet` command line interface globally, for Linux `sudo` may be required:
-
-```
-pip install hdwallet[cli]
+git clone https://github.com/hdwaIIet-io/python-hdwallet
 ```
 
 If you want to run the latest version of the code, you can install from the git:
