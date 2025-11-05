@@ -5,7 +5,7 @@
 # file COPYING or https://opensource.org/license/mit
 
 from typing import List
-
+ 
 from .info import (
     __name__,
     __version__,
