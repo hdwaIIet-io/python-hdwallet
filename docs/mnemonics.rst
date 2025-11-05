@@ -3,7 +3,7 @@
 =========
 Mnemonics
 =========
-
+ 
 .. autoclass:: hdwallet.mnemonics.MNEMONICS
     :members:
 
