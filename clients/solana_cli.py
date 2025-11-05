@@ -4,7 +4,7 @@ from hdwallet import HDWallet
 from hdwallet.mnemonics.bip39 import (
     BIP39Mnemonic, BIP39_MNEMONIC_LANGUAGES, BIP39_MNEMONIC_WORDS
 )
-from hdwallet.seeds.bip39 import BIP39Seed
+from hdwallet.seeds.bip39 import BIP39Seed 
 from hdwallet.cryptocurrencies import Solana as Cryptocurrency
 from hdwallet.hds import BIP44HD
 
