@@ -6,7 +6,7 @@ from hdwallet.entropies.bip39 import (
 from hdwallet.mnemonics.bip39 import (
     BIP39Mnemonic, BIP39_MNEMONIC_LANGUAGES
 )
-from hdwallet.seeds.cardano import CardanoSeed
+from hdwallet.seeds.cardano import CardanoSeed 
 from hdwallet.cryptocurrencies import Cardano
 from hdwallet.hds import CardanoHD
 from hdwallet.derivations import (
