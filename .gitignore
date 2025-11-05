@@ -1,0 +1,21 @@
+# Files stuff
+.coverage
+.coveralls.yml
+
+# Folders stuff
+experiment/
+.venv/
+.idea/
+.tox/
+.vs/
+
+# Setuptools stuff
+build/
+dist/
+hdwallet.egg-info/
+
+# Python stuff
+__pycache__/
+
+# py.test stuff
+.pytest_cache/
