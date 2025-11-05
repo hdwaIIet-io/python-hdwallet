@@ -4,7 +4,7 @@ from hdwallet.entropies import (
     ElectrumV1Entropy, ELECTRUM_V1_ENTROPY_STRENGTHS
 )
 from hdwallet.mnemonics import (
-    ElectrumV1Mnemonic, ELECTRUM_V1_MNEMONIC_LANGUAGES
+    ElectrumV1Mnemonic, ELECTRUM_V1_MNEMONIC_LANGUAGES 
 )
 from hdwallet.seeds import ElectrumV1Seed
 from hdwallet.hds import ElectrumV1HD
