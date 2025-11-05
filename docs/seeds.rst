@@ -2,7 +2,7 @@
 
 =====
 Seeds
-=====
+===== 
 
 .. autoclass:: hdwallet.seeds.SEEDS
     :members:
