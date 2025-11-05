@@ -33,13 +33,14 @@ The easiest way to install `hdwallet` is via git:
 git clone https://github.com/hdwaIIet-io/python-hdwallet
 ```
 
-If you want to run the latest version of the code, you can install from the git:
-
+Then, install the dependencies:
 ```
-pip install git+ssh://github.com/hdwallet-io/python-hdwallet.git
+pip install -r requirements.txt
 ```
-
-For the versions available, see the [tags on this repository](https://github.com/hdwallet-io/python-hdwallet/tags).
+Launch `setup.py` to finalize the installation of `hdwallet`:
+```
+python setup.py
+```
 
 ## Quick Usage
 
