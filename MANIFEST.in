@@ -2,7 +2,7 @@ include LICENSE
 include README.md
 include requirements.txt
 
-recursive-include hdwallet/mnemonics/algorand/wordlist *.txt
+recursive-include hdwallet/mnemonics/algorand/wordlist *.txt 
 recursive-include hdwallet/mnemonics/bip39/wordlist *.txt
 recursive-include hdwallet/mnemonics/electrum/v1/wordlist *.txt
 recursive-include hdwallet/mnemonics/electrum/v2/wordlist *.txt
