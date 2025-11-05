@@ -7,7 +7,7 @@
 from typing import (
     Optional, Union, Tuple
 )
-from Crypto.Hash import (
+from Crypto.Hash import ( 
     SHA512, SHA3_256, keccak
 )
 from Crypto.Cipher import ChaCha20_Poly1305
