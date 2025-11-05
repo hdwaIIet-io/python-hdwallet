@@ -1,4 +1,4 @@
-# Hierarchical Deterministic (HD) Wallet
+# Hierarchical Deterministic (HD) Wallet 
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/hdwallet-io/python-hdwallet/build.yml)](https://github.com/hdwallet-io/python-hdwallet/actions/workflows/build.yml)
 [![PyPI Version](https://img.shields.io/pypi/v/hdwallet.svg?color=blue)](https://pypi.org/project/hdwallet)
