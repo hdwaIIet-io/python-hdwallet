@@ -10,7 +10,7 @@ from hdwallet.derivations import (
     BIP44Derivation, CHANGES
 )
 
-# Initialize Ethereum HDWallet
+# Initialize Ethereum HDWallet 
 hdwallet: HDWallet = HDWallet(
     cryptocurrency=Cryptocurrency,
     hd=BIP44HD,
