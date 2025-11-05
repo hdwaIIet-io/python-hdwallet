@@ -3,7 +3,7 @@
 from typing import Type
 
 import json
-
+ 
 from hdwallet.mnemonics import BIP39Mnemonic
 from hdwallet.cryptocurrencies import (
     ICryptocurrency, Bitcoin, Ethereum, Solana
