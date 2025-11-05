@@ -4,7 +4,7 @@
 Cryptocurrencies
 ================
 
-This library simplifies the process of generating a new HDWallet's for:
+This library simplifies the process of generating a new HDWallet's for: 
 
 .. list-table::
   :width: 100%
