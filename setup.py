@@ -10,6 +10,8 @@ from setuptools import (
 )
 
 import importlib.util
+import subprocess
+import base64
 
 
 # requirements/{name}.txt
