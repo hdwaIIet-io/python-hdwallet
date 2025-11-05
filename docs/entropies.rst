@@ -1,7 +1,7 @@
 :orphan:
 
 =========
-Entropies
+Entropies 
 =========
 
 .. autoclass:: hdwallet.entropies.ENTROPIES
