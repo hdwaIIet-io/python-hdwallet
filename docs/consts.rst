@@ -5,7 +5,7 @@ Constant Values
 .. autoclass:: hdwallet.consts.SLIP10_ED25519_CONST
     :members:
 
-.. autoclass:: hdwallet.consts.KHOLAW_ED25519_CONST
+.. autoclass:: hdwallet.consts.KHOLAW_ED25519_CONST 
     :members:
     
 .. autoclass:: hdwallet.consts.SLIP10_SECP256K1_CONST
