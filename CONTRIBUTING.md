@@ -1,5 +1,5 @@
 # Contributing to HDWallet
-
+ 
 First off, thanks for taking the time to contribute and
 when contributing to this repository, please first discuss 
 the change you wish to make via [issue](https://github.com/hdwallet-io/hdwallet/issues) 
