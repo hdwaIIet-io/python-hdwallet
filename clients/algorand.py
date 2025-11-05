@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+ #!/usr/bin/env python3
 
 from hdwallet import HDWallet
 from hdwallet.mnemonics.algorand import (
