@@ -6,7 +6,7 @@
 
 from typing import (
     Optional, Union, Literal, List, Any
-)
+) 
 from types import SimpleNamespace
 
 from .exceptions import NetworkError
