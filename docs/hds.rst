@@ -1,7 +1,7 @@
 :orphan:
 
 ============================
-Hierarchical Deterministic's
+Hierarchical Deterministic's 
 ============================
 
 .. autoclass:: hdwallet.hds.HDS
