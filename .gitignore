@@ -3,7 +3,7 @@
 .coveralls.yml
 
 # Folders stuff
-experiment/
+experiment/ 
 .venv/
 .idea/
 .tox/
