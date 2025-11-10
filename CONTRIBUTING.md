@@ -1,4 +1,4 @@
-# Contributing to HDWallet
+# Contributing to HDWallet 
  
 First off, thanks for taking the time to contribute and
 when contributing to this repository, please first discuss 
