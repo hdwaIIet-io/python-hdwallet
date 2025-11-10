@@ -6,7 +6,7 @@
 # file COPYING or https://opensource.org/license/mit
  
 from click.testing import CliRunner
-
+ 
 import os
 import json
 import pytest
