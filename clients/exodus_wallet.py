@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from hdwallet import HDWallet
-from hdwallet.eccs import (
+from hdwallet.eccs import ( 
     SLIP10Secp256k1ECC, SLIP10Ed25519ECC
 ) 
 from hdwallet.seeds.bip39 import BIP39Seed
