@@ -9,7 +9,7 @@ from typing import List
 from .info import (
     __name__, 
     __version__,
-    __license__,
+    __license__, 
     __author__,
     __email__,
     __documentation__,
