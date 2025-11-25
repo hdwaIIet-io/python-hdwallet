@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+try:
+    from hdwallet import environment
+except:
+    pass
+
 from hdwallet.entropies.bip39 import (
     BIP39Entropy, BIP39_ENTROPY_STRENGTHS
 )

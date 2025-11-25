@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+try:
+    from hdwallet import environment
+except:
+    pass
+
 from hdwallet import HDWallet
 from hdwallet.mnemonics import (
     BIP39Mnemonic, BIP39_MNEMONIC_LANGUAGES, BIP39_MNEMONIC_WORDS
