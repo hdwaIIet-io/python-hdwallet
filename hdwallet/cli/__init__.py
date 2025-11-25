@@ -3,6 +3,12 @@
 # Copyright © 2020-2024, Meheret Tesfaye Batu <meherett.batu@gmail.com>
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or https://opensource.org/license/mit
+
+try:
+    from .. import environment
+except:
+    pass
+
 import inspect
 from bip38 import cryptocurrencies
 
