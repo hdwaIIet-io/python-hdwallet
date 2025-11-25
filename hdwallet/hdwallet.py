@@ -8,6 +8,11 @@ from typing import (
     Optional, Union, Any, Type, Tuple, List
 )
 
+try:
+    from . import environment
+except:
+    pass
+
 from .libs.base58 import check_decode
 from .entropies import (
     IEntropy, ENTROPIES

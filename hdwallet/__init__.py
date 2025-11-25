@@ -5,6 +5,11 @@
 # file COPYING or https://opensource.org/license/mit
 
 from typing import List
+
+try:
+    from . import environment
+except:
+    pass
  
 from .info import (
     __name__, 
