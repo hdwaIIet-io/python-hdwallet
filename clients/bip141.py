@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from hdwallet.entropies.bip39 import (
-    BIP39Entropy, BIP39_ENTROPY_STRENGTHS
+    BIP39Entropy, BIP39_ENTROPY_STRENGTHS 
 )
 from hdwallet.mnemonics.bip39 import (
     BIP39Mnemonic, BIP39_MNEMONIC_LANGUAGES
